@@ -18,11 +18,11 @@
 </div>
 <h1 align="center">Olá 👋, me chamo Ramon! </h1>
 
-:computer: Desenvolvedor Frontend aprendendo Node<br/>
+:computer: Desenvolvedor Frontend aprendendo PHP<br/>
 :man_student: Estudante de Análise e Desenvolvimento de Sistemas<br/>
 :rocket: Aluno do Ignite da Rocketseat<br>
 :white_heart: Apaixonado por tecnologia e programação <br/>
-:seedling: Atualmente estudado: Node/React<br/>
+:seedling: Atualmente estudado: PHP/React<br/>
 :house_with_garden: Atualmente morando em Belo Horizonte/MG<br/>
 
 &#xa0;
@@ -34,6 +34,7 @@
  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML"  title="HTML">
  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" title="CSS">
  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS title="ReactJS>
+ <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" alt="PHP" title="PHP">
  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git" title="Git">
  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
