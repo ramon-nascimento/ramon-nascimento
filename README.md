@@ -18,11 +18,11 @@
 </div>
 <h1 align="center">Olá 👋, me chamo Ramon! </h1>
 
-:computer: Desenvolvedor Frontend aprendendo PHP<br/>
+:computer: Desenvolvedor FullStack aprendendo Flutter!<br/>
 :man_student: Estudante de Análise e Desenvolvimento de Sistemas<br/>
 :rocket: Aluno do Ignite da Rocketseat<br>
 :white_heart: Apaixonado por tecnologia e programação <br/>
-:seedling: Atualmente estudado: PHP/React<br/>
+:seedling: Atualmente estudado: Flutter<br/>
 :house_with_garden: Atualmente morando em Belo Horizonte/MG<br/>
 
 &#xa0;
