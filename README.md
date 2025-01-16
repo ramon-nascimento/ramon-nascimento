@@ -18,28 +18,31 @@
 </div>
 <h1 align="center">Olá 👋, me chamo Ramon! </h1>
 
-:computer: Desenvolvedor FullStack aprendendo Flutter!<br/>
-:man_student: Estudante de Análise e Desenvolvimento de Sistemas<br/>
-:rocket: Aluno do Ignite da Rocketseat<br>
+:computer: Desenvolvedor Back-end aprendendo C/C++!<br/>
+:man_student: Estudante de Jogos Digitais<br/>
 :white_heart: Apaixonado por tecnologia e programação <br/>
-:seedling: Atualmente estudado: Flutter<br/>
+:seedling: Atualmente estudado: C/C++<br/>
 :house_with_garden: Atualmente morando em Belo Horizonte/MG<br/>
 
 &#xa0;
 
 <h2 align="center"> Tecnologias </h1>
 <p align="center">
- <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"  title="JavaScript">
+ <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" alt="TypeScript"  title="TypeScript">
+ <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python" alt="Python"  title="Python">
  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js" title="Node.js">
- <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5" alt="HTML"  title="HTML">
- <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" title="CSS">
- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS title="ReactJS>
+ <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="ReactJS" title="ReactJS">
+ <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next" alt="Next" title="Next">
  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" alt="PHP" title="PHP">
  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git" title="Git">
- <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
- <img src="https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=adobe-photoshop" alt="Photoshop" title="Photoshop" >
- <img src="https://img.shields.io/badge/illustrator-000000?style=for-the-badge&logo=adobe-illustrator" alt="Illustrator"  title="Illustrator">
+</p>
+
+<h2 align="center"> Bancos de Dados </h1>
+<p align="center">
+ <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
+ <img src="https://img.shields.io/badge/SQLServer-000000?style=for-the-badge&logo=sqlserver" alt="SQLServer" title="SQLServer">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" alt="MongoDB" title="MongoDB">
 </p>
 
 &#xa0;
