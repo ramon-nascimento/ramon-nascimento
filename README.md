@@ -36,13 +36,9 @@
  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" alt="PHP" title="PHP">
  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=4479A1" alt="Git" title="Git">
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
-</p>
-
-<h2 align="center"> Bancos de Dados </h1>
-<p align="center">
  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL" title="MySQL">
  <img src="https://img.shields.io/badge/SQLServer-000000?style=for-the-badge&logo=sqlserver" alt="SQLServer" title="SQLServer">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" alt="MongoDB" title="MongoDB">
+ <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" alt="MongoDB" title="MongoDB">
 </p>
 
 &#xa0;
