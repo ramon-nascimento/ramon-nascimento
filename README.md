@@ -24,7 +24,7 @@
 :seedling: Atualmente estudado: C/C++<br/>
 :house_with_garden: Atualmente morando em Belo Horizonte/MG<br/>
 
-&#xa0;
+
 
 <h2 align="center"> Tecnologias </h1>
 <p align="center">
@@ -41,8 +41,5 @@
  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" alt="MongoDB" title="MongoDB">
 </p>
 
-&#xa0;
-
-&#xa0;
 
 <h4 align="center">Obrigado pela visita 👋</h4>
